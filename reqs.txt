@@ -1,0 +1,4 @@
+selenium
+linkedin-scraper
+pandas
+time
